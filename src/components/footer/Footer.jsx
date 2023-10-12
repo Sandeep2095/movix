@@ -8,7 +8,7 @@ import {
 
 import ContentWrapper from '../contentWrapper/ContentWrapper';
 
-import './Footer.scss';
+import './footer.scss';
 
 const Footer = () => {
 	return (
